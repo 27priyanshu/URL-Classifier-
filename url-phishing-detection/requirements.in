@@ -1,0 +1,5 @@
+Flask==3.0.2
+googlesearch_python==1.2.3
+numpy==1.23.5
+tld==0.13
+transformers==4.33.2
